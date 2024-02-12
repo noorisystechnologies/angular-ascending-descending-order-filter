@@ -1,0 +1,37 @@
+h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Styles for the table container */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for table header row */
+th {
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+}
+
+/* Styles for table rows */
+tr {
+    background-color: #f7f7f7;
+}
+
+/* Styles for table data cells */
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Hover effect for table rows */
+tr:hover {
+    background-color: #ddd;
+}
